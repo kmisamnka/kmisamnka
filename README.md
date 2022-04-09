@@ -2,7 +2,7 @@
 - 👀Atualmente tenho interesse em  design e desenvolvimento de jogos.
 - 🌱Brinco um pouco com HMTL, CSS, Adobe illustrator e Lightroom.
  
- <h2 align="">📫 Redes e Contato</h2>
+ <!--<h2 align="">📫 Redes e Contato</h2>-->
 
 <div align="">
    <a href="https://codepen.io/_samnKa" target="_blank"> 
